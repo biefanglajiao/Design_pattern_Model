@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/原型模式/Attcchment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/原型模式/Attcchment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/原型模式/Attcchment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/原型模式/Attcchment1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/原型模式/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/原型模式/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/原型模式/Email1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/原型模式/Email1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/工厂方法/ChinesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/工厂方法/ChinesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/工厂方法/ChinesePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/工厂方法/ChinesePizzaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/工厂方法/GreekPizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/工厂方法/GreekPizzaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/工厂方法/GreekPizzza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/工厂方法/GreekPizzza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/工厂方法/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/工厂方法/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/工厂方法/PizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/工厂方法/PizzaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/建造者模式/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/建造者模式/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/建造者模式/ComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/建造者模式/ComputerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/建造者模式/ComputerWaiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/建造者模式/ComputerWaiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/建造者模式/HuaweiComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/建造者模式/HuaweiComputer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/建造者模式/LenovoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/建造者模式/LenovoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/FamilyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/FamilyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/FamilyHumburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/FamilyHumburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/FamilyPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/FamilyPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/SingleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/SingleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/SingleHumburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/SingleHumburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/抽象工厂/SinglePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/抽象工厂/SinglePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂/Iwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂/Iwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂/MouthMask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂/MouthMask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂/WorkFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂/WorkFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂2/ChinesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂2/ChinesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂2/GreekPizzza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂2/GreekPizzza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂2/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂2/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/普通工厂2/PizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/普通工厂2/PizzaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/Blue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/Blue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/Green.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/LargePen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/LargePen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/MiddlePen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/MiddlePen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/Pen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/Pen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/Red.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/SmallPen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/SmallPen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/XmlUtilPen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/XmlUtilPen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/Yellow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/Yellow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/桥接模式/configPen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/桥接模式/configPen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/组合模式/AbstractElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/组合模式/AbstractElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/组合模式/AbstractElement1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/组合模式/AbstractElement1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/组合模式/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/组合模式/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/组合模式/Composite1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/组合模式/Composite1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/组合模式/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/组合模式/Leaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/组合模式/Leaf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/组合模式/Leaf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/适配器模式/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/适配器模式/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/适配器模式/BirdAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/适配器模式/BirdAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/适配器模式/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/适配器模式/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/适配器模式/DogAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/适配器模式/DogAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/适配器模式/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/适配器模式/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/单例模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/单例模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/原型模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/原型模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/工厂方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/工厂方法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/建造者模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/建造者模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/抽象工厂.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/抽象工厂.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/普通工厂模式2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/普通工厂模式2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/桥接模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/桥接模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/简单工厂模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/简单工厂模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/组合模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/组合模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/适配器类.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/适配器类.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MJo1D8IRzxQh3vPZVREudQhLsM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA/设计模式/Model&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.工厂方法" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.组合模式.安全组合模式">
+    <configuration name="桥接模式" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="桥接模式" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="组合模式.透明组合模式" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="组合模式" />
+      <option name="METHOD_NAME" value="透明组合模式" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="组合模式.安全组合模式" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="组合模式" />
+      <option name="METHOD_NAME" value="安全组合模式" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="原型模式.深克隆" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="原型模式" />
+      <option name="METHOD_NAME" value="深克隆" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="桥接模式.aVoid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="桥接模式" />
+      <option name="METHOD_NAME" value="aVoid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="桥接模式.aVoid1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="桥接模式" />
+      <option name="METHOD_NAME" value="aVoid1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="适配器类.aa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="适配器类" />
+      <option name="METHOD_NAME" value="aa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="单例模式.aa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="单例模式" />
+      <option name="METHOD_NAME" value="aa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="抽象工厂.aa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="抽象工厂" />
+      <option name="METHOD_NAME" value="aa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.组合模式.安全组合模式" />
+        <item itemvalue="JUnit.组合模式.透明组合模式" />
+        <item itemvalue="JUnit.桥接模式.aVoid" />
+        <item itemvalue="JUnit.桥接模式" />
+        <item itemvalue="JUnit.桥接模式.aVoid1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="" />
+      <created>1677494830534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677494830534</updated>
+      <workItem from="1677494831461" duration="2843000" />
+      <workItem from="1677503524824" duration="30000" />
+      <workItem from="1677677320242" duration="1410000" />
+      <workItem from="1678103678887" duration="3889000" />
+      <workItem from="1678261691226" duration="11000" />
+      <workItem from="1678261711827" duration="52000" />
+      <workItem from="1678341601568" duration="3120000" />
+      <workItem from="1678859427634" duration="1643000" />
+      <workItem from="1679011812052" duration="5877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/桥接模式.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/桥接模式.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
