@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/外观模式/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/外观模式/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/外观模式/GeneralSwitchFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/外观模式/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/外观模式/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/装饰模式/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/装饰模式/Changer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/装饰模式/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/装饰模式/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/装饰模式/Transform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/装饰模式.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="装饰模式  外观模式">
+      <change afterPath="$PROJECT_DIR$/src/main/java/代理模式/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/代理模式/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/代理模式/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/代理模式/Subject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,7 @@
       <recent name="org.工厂方法" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Client">
+  <component name="RunManager" selected="应用程序.代理模式.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.外观模式.Client" />
       <module name="Model" />
@@ -84,12 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="组合模式.透明组合模式" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="代理模式.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式.Client" />
       <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="组合模式" />
-      <option name="METHOD_NAME" value="透明组合模式" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="代理模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.代理模式.Client" />
         <item itemvalue="应用程序.Client" />
         <item itemvalue="JUnit.适配器类.aaa" />
         <item itemvalue="JUnit.建造者模式.aa" />
         <item itemvalue="JUnit.桥接模式.aVoid" />
-        <item itemvalue="JUnit.组合模式.透明组合模式" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +202,7 @@
       <workItem from="1679444267777" duration="5092000" />
       <workItem from="1679556286078" duration="1201000" />
       <workItem from="1679571605939" duration="36000" />
-      <workItem from="1679573589883" duration="830000" />
+      <workItem from="1679573589883" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1679017709689</created>
@@ -216,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679017709689</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="装饰模式  外观模式">
+      <created>1679574547817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679574547817</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +237,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="装饰模式  外观模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="装饰模式  外观模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
