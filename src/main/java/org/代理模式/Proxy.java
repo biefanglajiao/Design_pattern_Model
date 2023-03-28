@@ -1,4 +1,4 @@
-package 代理模式;
+package org.代理模式;
 
 public class Proxy extends Subject{
     private RealSubject realSubject=new RealSubject();

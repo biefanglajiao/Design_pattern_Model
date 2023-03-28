@@ -10,16 +10,19 @@ public class GeneralSwitchFacade {
         light[0]=new Light("zuo");
         light[1]=new Light("you");
     }
-   public void on(){
+   public void on(){//开灯
         light[0].on();
         light[1].on();
         tv.on();
         fan.on();
    }
-   public void off(){
+   public void off(){//关灯
         light[0].off();
         light[1].off();
         tv.off();
         fan.off();
+
    }
 }
+
+

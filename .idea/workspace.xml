@@ -4,11 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="装饰模式  外观模式">
-      <change afterPath="$PROJECT_DIR$/src/main/java/代理模式/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/代理模式/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/代理模式/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/代理模式/Subject.java" afterDir="false" />
+    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="代理模式">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/ConcreateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/Controller1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/TVchangeCommend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/TVcloseCommend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/TVopenCommend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/ConcreteCommandA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/ConcreteCommandB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/Invoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/MacroComand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/RececerB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/ReceicerA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/Calculatorform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/ConcreteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/命令模式1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/外观模式/GeneralSwitchFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/外观模式/GeneralSwitchFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/代理模式/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/代理模式/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/代理模式/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/代理模式/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/代理模式/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/代理模式/RealSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/代理模式/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/代理模式/Subject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +82,7 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -62,13 +91,13 @@
       <recent name="org.工厂方法" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.代理模式.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.外观模式.Client" />
+  <component name="RunManager" selected="应用程序.Client2">
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.命令模式_宏命令.Client2" />
       <module name="Model" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.外观模式.*" />
+          <option name="PATTERN" value="org.命令模式_宏命令.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="代理模式.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="代理模式.Client" />
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.命令模式.client" />
       <module name="Model" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="代理模式.*" />
+          <option name="PATTERN" value="org.命令模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,61 +118,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="组合模式.安全组合模式" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="org.命令模式_撤销操作.client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.命令模式_撤销操作.client" />
+      <module name="Model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.命令模式_撤销操作.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.命令模式_宏命令.client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.命令模式_宏命令.client" />
+      <module name="Model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.命令模式_宏命令.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="命令模式1.client1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Model" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="组合模式" />
-      <option name="METHOD_NAME" value="安全组合模式" />
+      <option name="MAIN_CLASS_NAME" value="命令模式1" />
+      <option name="METHOD_NAME" value="client1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="原型模式.深克隆" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="命令模式1.client2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Model" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="原型模式" />
-      <option name="METHOD_NAME" value="深克隆" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="桥接模式.aVoid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="桥接模式" />
-      <option name="METHOD_NAME" value="aVoid" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="装饰模式.aVoid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="装饰模式" />
-      <option name="METHOD_NAME" value="aVoid" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="建造者模式.aa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="建造者模式" />
-      <option name="METHOD_NAME" value="aa" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="单例模式.aa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="单例模式" />
-      <option name="METHOD_NAME" value="aa" />
+      <option name="MAIN_CLASS_NAME" value="命令模式1" />
+      <option name="METHOD_NAME" value="client2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,23 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="适配器类.aaa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="适配器类" />
-      <option name="METHOD_NAME" value="aaa" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.代理模式.Client" />
-        <item itemvalue="应用程序.Client" />
-        <item itemvalue="JUnit.适配器类.aaa" />
-        <item itemvalue="JUnit.建造者模式.aa" />
-        <item itemvalue="JUnit.桥接模式.aVoid" />
+        <item itemvalue="应用程序.Client2" />
+        <item itemvalue="应用程序.org.命令模式_撤销操作.client" />
+        <item itemvalue="JUnit.命令模式1.client1" />
+        <item itemvalue="JUnit.命令模式1.client2" />
+        <item itemvalue="应用程序.client" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +207,16 @@
       <workItem from="1679444267777" duration="5092000" />
       <workItem from="1679556286078" duration="1201000" />
       <workItem from="1679571605939" duration="36000" />
-      <workItem from="1679573589883" duration="1788000" />
+      <workItem from="1679573589883" duration="2108000" />
+      <workItem from="1679576290232" duration="79000" />
+      <workItem from="1679581562543" duration="540000" />
+      <workItem from="1679582112084" duration="32000" />
+      <workItem from="1679582153480" duration="294000" />
+      <workItem from="1679582582779" duration="681000" />
+      <workItem from="1679583287762" duration="18000" />
+      <workItem from="1679616816205" duration="10000" />
+      <workItem from="1679617325277" duration="912000" />
+      <workItem from="1679961694944" duration="6661000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1679017709689</created>
@@ -218,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679574547817</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="代理模式">
+      <created>1679575694933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679575694933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +259,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="装饰模式  外观模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="装饰模式  外观模式" />
+    <MESSAGE value="代理模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="代理模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
