@@ -4,39 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="代理模式">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/ConcreateCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/Controller1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/TVchangeCommend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/TVcloseCommend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式1/TVopenCommend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/ConcreteCommandA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/ConcreteCommandB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/Invoke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/MacroComand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/RececerB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/ReceicerA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_宏命令/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/Calculatorform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/ConcreteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/命令模式_撤销操作/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/命令模式1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/外观模式/GeneralSwitchFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/外观模式/GeneralSwitchFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/代理模式/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/代理模式/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/代理模式/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/代理模式/Proxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/代理模式/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/代理模式/RealSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/代理模式/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/代理模式/Subject.java" afterDir="false" />
+    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="迭代器观察者 状态模式">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/状态模式_积分下载/FromAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/状态模式_积分下载/FromAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JAVA/设计模式/Model&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA/设计模式/Model/src/main/java/org/迭代器模式_常规&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -87,17 +56,20 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\设计模式\Model\src\main\java\org\迭代器模式_常规" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.工厂方法" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Client2">
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.命令模式_宏命令.Client2" />
+  <component name="RunManager" selected="应用程序.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.状态模式_积分下载.Client" />
       <module name="Model" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.命令模式_宏命令.*" />
+          <option name="PATTERN" value="org.状态模式_积分下载.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +78,11 @@
       </method>
     </configuration>
     <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.命令模式.client" />
+      <option name="MAIN_CLASS_NAME" value="org.状态模式.client" />
       <module name="Model" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.命令模式.*" />
+          <option name="PATTERN" value="org.状态模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +90,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.命令模式_撤销操作.client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.命令模式_撤销操作.client" />
+    <configuration name="org.观察者模式.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.观察者模式.Client" />
       <module name="Model" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.命令模式_撤销操作.*" />
+          <option name="PATTERN" value="org.观察者模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.迭代器模式_常规.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.迭代器模式_常规.Client" />
+      <module name="Model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.迭代器模式_常规.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.迭代器模式_电视机遥控器.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.迭代器模式_电视机遥控器.Client" />
+      <module name="Model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.迭代器模式_电视机遥控器.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.观察者模式_猫狗老鼠.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.观察者模式_猫狗老鼠.Client" />
+      <module name="Model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.观察者模式_猫狗老鼠.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,43 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="命令模式1.client1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="命令模式1" />
-      <option name="METHOD_NAME" value="client1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="命令模式1.client2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="命令模式1" />
-      <option name="METHOD_NAME" value="client2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="抽象工厂.aa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="抽象工厂" />
-      <option name="METHOD_NAME" value="aa" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Client2" />
-        <item itemvalue="应用程序.org.命令模式_撤销操作.client" />
-        <item itemvalue="JUnit.命令模式1.client1" />
-        <item itemvalue="JUnit.命令模式1.client2" />
+        <item itemvalue="应用程序.Client" />
         <item itemvalue="应用程序.client" />
+        <item itemvalue="应用程序.org.观察者模式.Client" />
+        <item itemvalue="应用程序.org.迭代器模式_常规.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +197,12 @@
       <workItem from="1679616816205" duration="10000" />
       <workItem from="1679617325277" duration="912000" />
       <workItem from="1679961694944" duration="6661000" />
+      <workItem from="1679970147644" duration="237000" />
+      <workItem from="1680488800268" duration="11000" />
+      <workItem from="1680566861145" duration="6145000" />
+      <workItem from="1680677778086" duration="68000" />
+      <workItem from="1680677896906" duration="40000" />
+      <workItem from="1680826354451" duration="2948000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1679017709689</created>
@@ -239,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679575694933</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="命令模式">
+      <created>1679970364579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679970364579</updated>
+    </task>
+    <task id="LOCAL-00005" summary="迭代器观察者 状态模式">
+      <created>1680829291723</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680829291723</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +260,9 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="装饰模式  外观模式" />
     <MESSAGE value="代理模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="代理模式" />
+    <MESSAGE value="命令模式" />
+    <MESSAGE value="迭代器观察者 状态模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="迭代器观察者 状态模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -274,6 +276,14 @@
           <url>file://$PROJECT_DIR$/src/test/java/桥接模式.java</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$USER_HOME$/.jdks/corretto-1.8.0_362/src.zip!/java/lang/Object.java</url>
+          <line>270</line>
+          <properties class="java.lang.Object" method="notify">
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
