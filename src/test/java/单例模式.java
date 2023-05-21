@@ -24,5 +24,20 @@ public class 单例模式 {
 
     }
 
+    /*****************
+     *
+     * @描述： 多线程懒汉单例模式 会出现两个进程同时进入if (singleton==null)  singleton=new Singleton();  会出现两个对象
+     */
+    @Test
+    public void 多线程单例模式(){
+        for (int i = 0; i < 100; i++) {
+            new Thread(()->{
+                Singleton singleton1 = Singleton.getSingleton();
+                Singleton singleton2 = Singleton.getSingleton();
+                System.out.println(singleton2 == singleton1);
+            }).start();
+        }
+    }
+
 
 }

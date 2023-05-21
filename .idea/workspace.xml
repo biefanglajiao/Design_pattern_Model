@@ -4,28 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="迭代器观察者 状态模式">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式/Absreactstrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式/AbsreactstrategyA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_排序策略/ArrayHander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_排序策略/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_排序策略/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_排序策略/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_排序策略/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_排序策略/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_排序策略/Xmlutil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_排序策略/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_旅游出行策略/AirplaneStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_旅游出行策略/BicycleStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_旅游出行策略/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_旅游出行策略/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_旅游出行策略/TrainStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_旅游出行策略/TravelStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_旅游出行策略/Xmlutil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/策略模式_旅游出行策略/config.xml" afterDir="false" />
+    <list default="true" id="a8e48ec5-b22e-49df-a30c-20f509e778fa" name="变更" comment="策略模式">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/内部类实现单例模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/内部类实现单例模式序列化获取.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/内部类实现单例模式序列化获取1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/枚举类实现单例模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/内部类实现单例模式序列化获取.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/内部类实现单例模式序列化获取1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/枚举类实现单例模式序列化获取.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/单例模式/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/单例模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/单例模式.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +33,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2MJo1D8IRzxQh3vPZVREudQhLsM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,7 +51,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/JAVA/设计模式/Model/src/main/java/org/策略模式_排序策略",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/JAVA/设计模式/Model/src/main/java/org/单例模式",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\设计模式\Model\src\main\java\org\单例模式" />
       <recent name="D:\JAVA\设计模式\Model\src\main\java\org\策略模式_排序策略" />
       <recent name="D:\JAVA\设计模式\Model\src\main\java\org\迭代器模式_电视机遥控器" />
       <recent name="D:\JAVA\设计模式\Model\src\main\java\org\迭代器模式_常规" />
@@ -85,77 +75,14 @@
       <recent name="D:\JAVA\设计模式\Model\src\main\java\org\策略模式_旅游出行策略" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.单例模式" />
       <recent name="org.策略模式_排序策略" />
       <recent name="org.策略模式_旅游出行策略" />
       <recent name="org.工厂方法" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.org.策略模式_排序策略.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.状态模式_积分下载.Client" />
-      <module name="Model" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.状态模式_积分下载.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.状态模式.client" />
-      <module name="Model" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.状态模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.观察者模式.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.观察者模式.Client" />
-      <module name="Model" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.观察者模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.策略模式.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.策略模式.Client" />
-      <module name="Model" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.策略模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.策略模式_排序策略.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.策略模式_排序策略.Client" />
-      <module name="Model" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.策略模式_排序策略.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.枚举类实现单例模式序列化获取.读比">
     <configuration name="org.策略模式_旅游出行策略.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.策略模式_旅游出行策略.Client" />
       <module name="Model" />
@@ -195,13 +122,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="内部类实现单例模式序列化获取1.读比" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="内部类实现单例模式序列化获取1" />
+      <option name="METHOD_NAME" value="读比" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="内部类实现单例模式序列化获取1.写" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="内部类实现单例模式序列化获取1" />
+      <option name="METHOD_NAME" value="写" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="枚举类实现单例模式序列化获取.写" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="枚举类实现单例模式序列化获取" />
+      <option name="METHOD_NAME" value="写" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="枚举类实现单例模式序列化获取.读比" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="枚举类实现单例模式序列化获取" />
+      <option name="METHOD_NAME" value="读比" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="内部类实现单例模式序列化获取.读比" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="内部类实现单例模式序列化获取" />
+      <option name="METHOD_NAME" value="读比" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.org.策略模式_排序策略.Client" />
-        <item itemvalue="应用程序.org.策略模式_旅游出行策略.Client" />
-        <item itemvalue="应用程序.Client" />
-        <item itemvalue="应用程序.client" />
-        <item itemvalue="应用程序.org.观察者模式.Client" />
+        <item itemvalue="JUnit.枚举类实现单例模式序列化获取.读比" />
+        <item itemvalue="JUnit.枚举类实现单例模式序列化获取.写" />
+        <item itemvalue="JUnit.内部类实现单例模式序列化获取1.读比" />
+        <item itemvalue="JUnit.内部类实现单例模式序列化获取1.写" />
+        <item itemvalue="JUnit.内部类实现单例模式序列化获取.读比" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +222,12 @@
       <workItem from="1680677896906" duration="40000" />
       <workItem from="1680826354451" duration="2948000" />
       <workItem from="1680829320646" duration="2431000" />
-      <workItem from="1680833812211" duration="1865000" />
+      <workItem from="1680833812211" duration="2628000" />
+      <workItem from="1680918817095" duration="5186000" />
+      <workItem from="1680962212715" duration="3419000" />
+      <workItem from="1680965654368" duration="18000" />
+      <workItem from="1684551934970" duration="4654000" />
+      <workItem from="1684644775519" duration="5952000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1679017709689</created>
@@ -289,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680829651799</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="策略模式">
+      <created>1680836073590</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680836073590</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +301,8 @@
     <MESSAGE value="代理模式" />
     <MESSAGE value="命令模式" />
     <MESSAGE value="迭代器观察者 状态模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="迭代器观察者 状态模式" />
+    <MESSAGE value="策略模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="策略模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
