@@ -1,5 +1,8 @@
 package org.工厂方法;
 
+/****
+ * 工厂方法和抽象工厂的区别：有没有汉堡抽象类以及对应的工厂类
+ */
 public class ChinesePizza implements Pizza {
     @Override
     public void prePaer() {
